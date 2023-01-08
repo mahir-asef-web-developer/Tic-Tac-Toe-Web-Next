@@ -1,0 +1,32 @@
+.boxShadow {
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.89);
+-webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.89);
+-moz-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.89);
+}
+.boxShadow:hover {
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.89);
+  -webkit-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.89);
+  -moz-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.89);
+}
+::selection{
+  background: rgb(167, 11, 167);
+  color: white;
+}
+.contactHeader{
+  left: 525px;
+}
+.contactHereLink{
+  text-decoration-color: purple;
+}
+.contactBtn{
+  left: -25px;
+}
+.landingImage{
+  top: 100px;
+}
+.gitHub{
+  right: 70px;
+}
+.download{
+  margin-left: 600px;
+}
